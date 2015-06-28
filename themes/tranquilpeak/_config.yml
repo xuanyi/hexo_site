@@ -55,7 +55,6 @@ sidebar:
         #     url: http://stackoverflow.com/users/
         #     icon: stack-overflow
         # twitter:
-        #     title: Twitter
         #     url: https://twitter.com/
         #     icon: twitter
         # facebook:
@@ -134,7 +133,7 @@ disqus_shortname:
 # Your Google analystics web property ID : UA-XXXXX-X
 google_analytics_id:
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-gravatar_email:
+gravatar_email: tmdie6@gmail.com
 # Your swiftype install key
 swiftype_install_key:
 
