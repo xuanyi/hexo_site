@@ -1,9 +1,9 @@
 # Header
 menu:
   主页: /
-  分类: /all-categories
+  分类: /categories
   归档: /archives
-  标签: /all-tags
+  标签: /tags
   # 随笔: /tags/随笔
 
 # SubNav
@@ -37,7 +37,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: 
+avatar: img/avatar03.png
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
